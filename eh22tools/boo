@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+"""Top-level package for eh22tools."""
+
+__author__ = """Roberta Hamme"""
+__email__ = 'rhamme@uvic.ca'
+__version__ = '0.1.0'
