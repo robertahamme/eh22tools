@@ -19,6 +19,13 @@ Python scripts for Emerson and Hamme 2022 Chemical Oceanography
 
 ## Installation
 
+For now, clone this directory and do an editable install:
+
+```batch
+    $ pip install -e . 
+```
+
+In the future we would like to be able to do: 
 
 ```batch
 
